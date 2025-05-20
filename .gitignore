@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+.ipynb_checkpoints
 
 # Virtual environments
 .venv
@@ -12,3 +13,6 @@ wheels/
 # Dataset
 data/*
 !data/.gitkeep
+
+# ide
+.idea
